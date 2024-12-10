@@ -1,0 +1,31 @@
+.Amine{
+    color: darkblue;
+}
+#omar{
+    color: darkred;
+}
+input[type="text"]{
+    border: 2px solid darkgrey;
+} 
+input[type="password"]{
+    border: 5px solid darkred;
+}
+input[type="email"]{
+    border: 3px solid darkblue;
+}
+ol>li{
+    color: chocolate;
+}
+ul>li{
+    color: darkred;
+    font-family: fantasy;
+}
+p::first-letter{
+    color: darkgreen;
+    font-size: 20px;
+    font-family: cursive;
+}
+h2:hover{
+    color: darkblue;
+    font-family: fantasy;
+}
